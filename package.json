@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "types": "dist/index.d.ts",
   "scripts": {
+    "prepublish": "pnpm run build",
     "build": "tsc"
   },
   "keywords": [
