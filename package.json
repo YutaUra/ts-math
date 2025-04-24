@@ -1,0 +1,17 @@
+{
+  "name": "@yutaura/ts-math",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "YutaUra",
+  "license": "MIT",
+  "packageManager": "pnpm@10.9.0",
+  "devDependencies": {
+    "@tsconfig/strictest": "2.0.5",
+    "typescript": "5.8.3"
+  }
+}
